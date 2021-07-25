@@ -10,7 +10,7 @@
     background-color="primary"
     centered>
       <v-tab>
-        welcome1
+        welcome1dddd
       </v-tab>
       <v-tab>
         bio
